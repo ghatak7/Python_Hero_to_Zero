@@ -3,6 +3,7 @@
 
 # from numpy import square
 
+#area calculation of different shapes
 
 Ask = input("Enter the shape you want to calculate area for (circle, square, rectangle): ")
 if Ask.lower() == "circle":
